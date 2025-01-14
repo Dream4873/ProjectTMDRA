@@ -1,0 +1,13 @@
+{
+  "id" : "https://Dream4873.github.io/ProjectTMDRA/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Dream4873/ProjectTMDRA project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Dream4873.github.io/ProjectTMDRA/manifests/manifest.json",
+    "label" : "project TMDRA"
+  } ]
+}
