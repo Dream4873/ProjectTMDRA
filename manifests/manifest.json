@@ -1,0 +1,57 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Dream4873.github.io/ProjectTMDRA/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "project TMDRA",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Manifest with multiply canvas",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Nooshin Borhani Rayeni",
+  "sequences" : [ {
+    "@id" : "http://7f9d234d-7ae2-4172-a620-d26bacb05265",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e51da476-d776-4622-aec7-45d70a6dd671",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 0,
+      "width" : 0,
+      "images" : [ ],
+      "related" : ""
+    }, {
+      "@id" : "http://4eeda037-5852-46f2-88aa-7e6bba6ba0c3",
+      "@type" : "sc:Canvas",
+      "label" : "cookies",
+      "height" : 5536,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://87943391-2f6c-43bf-bc67-954892d1d571",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://dream4873.github.io/ProjectTMDRA/images/cookies/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://dream4873.github.io/ProjectTMDRA/images/cookies",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5536,
+          "width" : 4160
+        },
+        "on" : "http://4eeda037-5852-46f2-88aa-7e6bba6ba0c3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
