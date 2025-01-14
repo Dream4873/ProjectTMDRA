@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 130,
+    "height" : 173
+  }, {
+    "width" : 260,
+    "height" : 346
+  }, {
+    "width" : 520,
+    "height" : 692
+  }, {
+    "width" : 1040,
+    "height" : 1384
+  }, {
+    "width" : 2080,
+    "height" : 2768
+  }, {
+    "width" : 4160,
+    "height" : 5536
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4160,
+  "@id" : "https://Dream4873.github.io/ProjectTMDRA/images/cookies",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5536
+}
