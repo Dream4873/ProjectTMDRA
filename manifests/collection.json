@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Dream4873.github.io/ProjectTMDRA/manifests/mani.json",
     "label" : "project TMDRA"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Dream4873.github.io/ProjectTMDRA/manifests/home",
+    "label" : "example manifest"
   } ]
 }
