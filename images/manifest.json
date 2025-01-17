@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://Dream4873.github.io/ProjectTMDRA/images/home/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "home"
+                ]
+            },
+            "height": 4608,
+            "width": 3456,
+            "items": [
+                {
+                    "id": "https://Dream4873.github.io/ProjectTMDRA/images/home/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Dream4873.github.io/ProjectTMDRA/images/home/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Dream4873.github.io/ProjectTMDRA/images/home/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 144
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 288
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 576
+                                            },
+                                            {
+                                                "width": 864,
+                                                "height": 1152
+                                            },
+                                            {
+                                                "width": 1728,
+                                                "height": 2304
+                                            },
+                                            {
+                                                "width": 3456,
+                                                "height": 4608
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3456,
+                                        "@id": "https://Dream4873.github.io/ProjectTMDRA/images/home",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4608,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Dream4873.github.io/ProjectTMDRA/images/home/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Dream4873.github.io/ProjectTMDRA/images/cookies/canvas/",
             "type": "Canvas",
             "label": {
